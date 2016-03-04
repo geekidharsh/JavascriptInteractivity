@@ -4,7 +4,7 @@ Interactivity with Javascript
 #author: 
 Harshvardhan Pandey. Last updated on: 02/03/2016
 @Copyright : Files available for redistribution and download only for educational purposes.
-
+About the author
 #About this repository: 
 Files are mostly part of the Inteactivity with Javascript coursework assignment, derived from Course insctructor Colleen E van Lent's codepen. 
 
