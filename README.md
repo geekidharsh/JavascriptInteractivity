@@ -1,6 +1,6 @@
-# JavascriptInteractivity 
+#[JavascriptInteractivity]@http://geekidharsh.github.io/JavascriptInteractivity
+  
 Interactivity with Javascript
-#http://geekidharsh.github.io/JavascriptInteractivity
 
 #author: 
 Harshvardhan Pandey. Last updated on: 02/03/2016
